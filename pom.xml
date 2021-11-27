@@ -38,7 +38,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>amir777</username>
 						<password>Amir122306</password>
-						<applicationName>cloude</applicationName>
+						<applicationName>cloud22</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
